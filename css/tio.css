@@ -1,0 +1,25 @@
+body {
+    background-color: tomato;
+    margin-left:10%;
+	margin-right:10%;
+}
+h1 { font-family: "Arial" ;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+}
+
+ 
+div.border{
+border:4px solid Gray;
+padding:17px;
+}
+
+.large-letter{
+font-size:400%;
+float:left;
+line-height:50%;
+margin-right:7px;
+margin-bottom:-7px
+}
